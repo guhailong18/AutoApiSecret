@@ -1,3 +1,17 @@
+# 关闭
+看起来用的人太多了，可能会被微软发现，关闭了，用CF建一个索引就好了
+## 关闭方法
+在Setting那里有个action
+
+
+
+
+
+
+
+
+
+
 # AutoApiSecret-加密版
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
